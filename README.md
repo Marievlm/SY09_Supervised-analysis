@@ -1,4 +1,4 @@
-# SY09_Supervised-analysis (analyses supérvisées)
+# SY09_Supervised-analysis (analyses supervisées)
 This is the second project of the data mining course (Université de Technologie de Compiègne)
 
 # Part 1
